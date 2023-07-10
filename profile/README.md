@@ -6,7 +6,7 @@
 
 ## ⌛개발 기간
 
-- 2023.06.19 - 2023.07.14
+- 2023.06.19 - 2023.07.13
 
 ## 🦁 프로젝트 구성원
 | [<img src="https://avatars.githubusercontent.com/Kminwoo97" width="200">](https://github.com/Kminwoo97) | [<img src="https://avatars.githubusercontent.com/Hypersand" width="200">](https://github.com/Hypersand) | [<img src="https://avatars.githubusercontent.com/yurrrrri" width="200">](https://github.com/yurrrrri) | [<img src="https://avatars.githubusercontent.com/udonggi" width="200">](https://github.com/udonggi) | [<img src="https://avatars.githubusercontent.com/Min9807" width="200">](https://github.com/Min9807) |
